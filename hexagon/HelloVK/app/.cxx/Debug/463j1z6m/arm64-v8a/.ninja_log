@@ -1,0 +1,11 @@
+# ninja log v5
+2	25869	7291806228077070	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	de4e35a302347dfb
+25874	26260	7291806232231735	E:/Jkuat units/units 3.2/Computer Graphics/cat1/hexagon/HelloVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/arm64-v8a/libhellovkjni.so	75b176bc2940a55a
+24	5228	7291969819626382	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	de4e35a302347dfb
+5229	5607	7291969823511749	E:/Jkuat units/units 3.2/Computer Graphics/cat1/hexagon/HelloVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/arm64-v8a/libhellovkjni.so	75b176bc2940a55a
+8	5196	7291971549473334	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	de4e35a302347dfb
+5197	5574	7291971553325087	E:/Jkuat units/units 3.2/Computer Graphics/cat1/hexagon/HelloVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/arm64-v8a/libhellovkjni.so	75b176bc2940a55a
+44	19858	7295313376473770	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	de4e35a302347dfb
+19872	20709	7295313389451835	E:/Jkuat units/units 3.2/Computer Graphics/cat1/hexagon/HelloVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/arm64-v8a/libhellovkjni.so	75b176bc2940a55a
+50	5419	7296293553359143	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	de4e35a302347dfb
+5423	6110	7296293561153318	E:/Jkuat units/units 3.2/Computer Graphics/cat1/hexagon/HelloVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/arm64-v8a/libhellovkjni.so	75b176bc2940a55a

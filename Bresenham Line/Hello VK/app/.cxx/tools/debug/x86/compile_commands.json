@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Jkuat units/units 3.2/Computer Graphics/cat1/Bresenham Line/Hello VK/app/.cxx/Debug/463j1z6m/x86",
+  "command": "C:\\Users\\hp\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android30 --sysroot=C:/Users/hp/AppData/Local/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DVK_USE_PLATFORM_ANDROID_KHR=1 -Dhellovkjni_EXPORTS -isystem C:/Users/hp/.gradle/caches/transforms-3/c68d7737bd65d165a05d189be0b05b14/transformed/jetified-games-activity-2.1.0-alpha01/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -Wall -fno-limit-debug-info  -fPIC -o CMakeFiles\\hellovkjni.dir\\vk_main.cpp.o -c \"E:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\Bresenham Line\\Hello VK\\app\\src\\main\\cpp\\vk_main.cpp\"",
+  "file": "E:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\Bresenham Line\\Hello VK\\app\\src\\main\\cpp\\vk_main.cpp"
+}
+]

@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\Jkuat units\units 3.2\Computer Graphics\cat1\DDA Line\HelloVK\app\.cxx\Debug\463j1z6m\x86'
+ninja: no work to do.

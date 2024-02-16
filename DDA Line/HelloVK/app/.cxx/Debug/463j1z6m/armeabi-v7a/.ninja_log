@@ -1,0 +1,5 @@
+# ninja log v5
+1	5100	7295343633246008	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	d72fc3382b87052e
+5105	5490	7295343637179980	E:/Jkuat units/units 3.2/Computer Graphics/cat1/DDA Line/HelloVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/armeabi-v7a/libhellovkjni.so	6e90724cff8ed503
+11	4809	7296201401127191	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	d72fc3382b87052e
+4810	5224	7296201405296282	E:/Jkuat units/units 3.2/Computer Graphics/cat1/DDA Line/HelloVK/app/build/intermediates/cxx/Debug/463j1z6m/obj/armeabi-v7a/libhellovkjni.so	6e90724cff8ed503

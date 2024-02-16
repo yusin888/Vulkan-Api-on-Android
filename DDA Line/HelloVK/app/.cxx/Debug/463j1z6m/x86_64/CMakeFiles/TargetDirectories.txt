@@ -1,0 +1,3 @@
+E:/Jkuat units/units 3.2/Computer Graphics/cat1/DDA Line/HelloVK/app/.cxx/Debug/463j1z6m/x86_64/CMakeFiles/hellovkjni.dir
+E:/Jkuat units/units 3.2/Computer Graphics/cat1/DDA Line/HelloVK/app/.cxx/Debug/463j1z6m/x86_64/CMakeFiles/edit_cache.dir
+E:/Jkuat units/units 3.2/Computer Graphics/cat1/DDA Line/HelloVK/app/.cxx/Debug/463j1z6m/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\cpp\CMakeLists.txt

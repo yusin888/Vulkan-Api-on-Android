@@ -1,0 +1,41 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 30 min SDK version: x86",
+    "file_": "E:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\Bresenham Line\\Hello VK\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027E:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\Bresenham Line\\Hello VK\\app\\.cxx\\Debug\\463j1z6m\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "E:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\Bresenham Line\\Hello VK\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "E:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\Bresenham Line\\Hello VK\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

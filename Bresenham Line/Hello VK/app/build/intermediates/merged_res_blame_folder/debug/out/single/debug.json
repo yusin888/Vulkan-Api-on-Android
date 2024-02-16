@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.android.hellovk.app-merged_res-20:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.android.hellovk.app-main-22:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.hellovk.app-merged_res-20:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.android.hellovk.app-main-22:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.hellovk.app-merged_res-20:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.android.hellovk.app-main-22:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.hellovk.app-merged_res-20:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.android.hellovk.app-main-22:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

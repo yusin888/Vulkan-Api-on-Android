@@ -1,0 +1,7 @@
+#Fri Feb 09 14:27:07 EAT 2024
+base.0=E\:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\hexagon\\HelloVK\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=E\:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\hexagon\\HelloVK\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\8\\classes.dex
+path.0=0/classes.dex
+path.1=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

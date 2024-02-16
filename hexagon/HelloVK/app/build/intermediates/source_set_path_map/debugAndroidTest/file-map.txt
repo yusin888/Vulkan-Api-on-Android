@@ -1,0 +1,4 @@
+com.android.hellovk.test.app-androidTest-0 E:\Jkuat units\units 3.2\Computer Graphics\cat1\hexagon\HelloVK\app\build\generated\res\resValues\androidTest\debug
+com.android.hellovk.test.app-mergeDebugAndroidTestResources-1 E:\Jkuat units\units 3.2\Computer Graphics\cat1\hexagon\HelloVK\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.android.hellovk.test.app-mergeDebugAndroidTestResources-2 E:\Jkuat units\units 3.2\Computer Graphics\cat1\hexagon\HelloVK\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.android.hellovk.test.app-merged_res-3 E:\Jkuat units\units 3.2\Computer Graphics\cat1\hexagon\HelloVK\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,78 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.hellovk" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="30"
+7        android:targetSdkVersion="33" />
+8
+9    <permission
+9-->[androidx.core:core:1.10.1] C:\Users\hp\.gradle\caches\transforms-3\d001c43b87f49a29f46bbdd20bd4ce3a\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+10        android:name="com.android.hellovk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+10-->[androidx.core:core:1.10.1] C:\Users\hp\.gradle\caches\transforms-3\d001c43b87f49a29f46bbdd20bd4ce3a\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+11        android:protectionLevel="signature" />
+11-->[androidx.core:core:1.10.1] C:\Users\hp\.gradle\caches\transforms-3\d001c43b87f49a29f46bbdd20bd4ce3a\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+12
+13    <uses-permission android:name="com.android.hellovk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+13-->[androidx.core:core:1.10.1] C:\Users\hp\.gradle\caches\transforms-3\d001c43b87f49a29f46bbdd20bd4ce3a\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+13-->[androidx.core:core:1.10.1] C:\Users\hp\.gradle\caches\transforms-3\d001c43b87f49a29f46bbdd20bd4ce3a\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+14
+15    <application
+15-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:4:3-17:17
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.10.1] C:\Users\hp\.gradle\caches\transforms-3\d001c43b87f49a29f46bbdd20bd4ce3a\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:5:7-41
+20        android:label="@string/hellovk_activity"
+20-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:6:7-47
+21        android:testOnly="true" >
+22        <activity
+22-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:7:5-16:16
+23            android:name="com.android.hellovk.VulkanActivity"
+23-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:7:15-44
+24            android:configChanges="orientation|screenSize|keyboardHidden"
+24-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:11:15-76
+25            android:exported="true"
+25-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:10:15-38
+26            android:launchMode="singleTask"
+26-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:9:15-46
+27            android:theme="@style/Application.Fullscreen" >
+27-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:8:15-60
+28            <intent-filter>
+28-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:12:7-15:23
+29                <action android:name="android.intent.action.MAIN" />
+29-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:13:9-61
+29-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:13:17-58
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:14:9-69
+31-->E:\Jkuat units\units 3.2\Computer Graphics\cat1\Rectangle\HelloVK\app\src\main\AndroidManifest.xml:14:19-66
+32            </intent-filter>
+33        </activity>
+34
+35        <provider
+35-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\9ee23eaa683b34a37e6b8cc5be3952b6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+36            android:name="androidx.startup.InitializationProvider"
+36-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\9ee23eaa683b34a37e6b8cc5be3952b6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+37            android:authorities="com.android.hellovk.androidx-startup"
+37-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\9ee23eaa683b34a37e6b8cc5be3952b6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+38            android:exported="false" >
+38-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\9ee23eaa683b34a37e6b8cc5be3952b6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+39            <meta-data
+39-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\9ee23eaa683b34a37e6b8cc5be3952b6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+40                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+40-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\9ee23eaa683b34a37e6b8cc5be3952b6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+41                android:value="androidx.startup" />
+41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hp\.gradle\caches\transforms-3\9ee23eaa683b34a37e6b8cc5be3952b6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+42            <meta-data
+42-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hp\.gradle\caches\transforms-3\0b0b3290412208e0f80d25876ad31e49\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+43                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+43-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hp\.gradle\caches\transforms-3\0b0b3290412208e0f80d25876ad31e49\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+44                android:value="androidx.startup" />
+44-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\hp\.gradle\caches\transforms-3\0b0b3290412208e0f80d25876ad31e49\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+45        </provider>
+46    </application>
+47
+48</manifest>

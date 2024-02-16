@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "E:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\Rectangle\\HelloVK\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\hp\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\Rectangle\\HelloVK\\app\\.cxx\\Debug\\463j1z6m\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\hp\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\Rectangle\\HelloVK\\app\\.cxx\\Debug\\463j1z6m\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hellovkjni::@6890427a1f51a3e7e1df": {
+      "artifactName": "hellovkjni",
+      "abi": "x86_64",
+      "output": "E:\\Jkuat units\\units 3.2\\Computer Graphics\\cat1\\Rectangle\\HelloVK\\app\\build\\intermediates\\cxx\\Debug\\463j1z6m\\obj\\x86_64\\libhellovkjni.so",
+      "runtimeFiles": []
+    }
+  }
+}
